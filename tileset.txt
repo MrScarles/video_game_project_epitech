@@ -1,0 +1,2 @@
+23 -> 736 pixels -> 32 pixels per tile largeur
+21 -> 672 pixels -> 32 pixels per tile hauteur
